@@ -52,5 +52,5 @@ func gcd(a, b int) int {
    
    func main() {
 	numbers := []int{42, 12, 18}
-	fmt.Println(findCommonDivisors(numbers)) // Вывод: [1 2 3 6]
+	fmt.Println(findCommonDivisors(numbers))
    }
